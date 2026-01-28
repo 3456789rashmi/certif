@@ -1,0 +1,15 @@
+{
+    "name": "myproject/certificate-validation",
+    "description": "certificate validation system using phpand dompdf",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "sharmarashmi28605@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.1"
+    }
+}
